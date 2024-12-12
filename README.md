@@ -2,7 +2,7 @@
 
 My name is **Tomas** and my handle here is Nan-tathren (I could not think of anything else). I'm a aspiring software/web developer with a strong interest in Python.
 
-So far I only have a couple of projects here. The news scrapper is my creation without reliance on any tutorial. For the TODO project I got the inspiration from the internet. The last file showcases queiries in PostgreSQL I have practiced in real databases. 
+So far I only have a couple of projects here. The news scrapper is my creation without reliance on any tutorial. For the 'Expense tracker' project I got the inspiration from the internet. The last file showcases queiries in PostgreSQL I have practiced in real databases. 
 You can check out my repositories below to see what I’ve been working on. Feel free to reach out if you have any questions or want to collaborate!
 
 ## My Journey into IT
