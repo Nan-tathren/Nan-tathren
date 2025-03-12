@@ -1,5 +1,5 @@
 # Hi there,
------------
+
 My name is **Tomas** and my handle here is Nan-tathren (I could not think of anything else). I'm a aspiring back-end developer with a strong interest in Python.
 
 So far I only have a couple of projects here. The news scrapper is my creation without reliance on any tutorial. For the "Company_Blog" and the 'To-Do List' projects I got the inspiration from online university courses I follow. The last file showcases queiries in PostgreSQL I have practiced in real databases. 
@@ -11,7 +11,7 @@ So far I only have a couple of projects here. The news scrapper is my creation w
 -----------
 
 You can check out my repositories below to see what I’ve been working on. Feel free to reach out if you have any questions or want to collaborate!
------------
+
 ## My Journey into IT
 
 After spending years in a completely different work field, I made the decision to pursue a career in software/web development. It hasn't been an easy road, though. Transitioning into IT demands a lot of time, effort, and perseverance — especially since I'm juggling my **non-IT full-time job**, a **side hustle**, and **family responsibilities**.
@@ -19,7 +19,8 @@ After spending years in a completely different work field, I made the decision t
 The challenge of balancing all these commitments while learning new technologies and building projects has been tough, but worth it. Every step of the way, I've had to develop strong **resilience**, **time management** skills, and a deeper ability to **stay committed to my personal goals** despite the obstacles.
 
 Despite the challenges, I remain motivated to keep learning and growing in this field.
------------
+
+
 ## Technologies
 
 ### I'm familiar with:
