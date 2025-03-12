@@ -4,7 +4,11 @@ My name is **Tomas** and my handle here is Nan-tathren (I could not think of any
 
 So far I only have a couple of projects here. The news scrapper is my creation without reliance on any tutorial. For the "Company_Blog" and the 'To-Do List' projects I got the inspiration from online university courses I follow. The last file showcases queiries in PostgreSQL I have practiced in real databases. 
 
+-----------
+
 **Currently I am learning Flask REST APIs and Docker. After that I will do the same in Django.**
+
+-----------
 
 You can check out my repositories below to see what I’ve been working on. Feel free to reach out if you have any questions or want to collaborate!
 
