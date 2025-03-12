@@ -3,6 +3,9 @@
 My name is **Tomas** and my handle here is Nan-tathren (I could not think of anything else). I'm a aspiring back-end developer with a strong interest in Python.
 
 So far I only have a couple of projects here. The news scrapper is my creation without reliance on any tutorial. For the "Company_Blog" and the 'To-Do List' projects I got the inspiration from online university courses I follow. The last file showcases queiries in PostgreSQL I have practiced in real databases. 
+
+**Currently I am learning Flask REST APIs and Docker. After that I will do the same in Django.**
+
 You can check out my repositories below to see what I’ve been working on. Feel free to reach out if you have any questions or want to collaborate!
 
 ## My Journey into IT
@@ -27,7 +30,6 @@ Despite the challenges, I remain motivated to keep learning and growing in this 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![REST API Badge](https://img.shields.io/badge/API-REST%20API-blue)
 
 ### I have encountered and used:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
