@@ -33,6 +33,7 @@ Despite the challenges, I remain motivated to keep learning and growing in this 
 
 
 ### I'm seeking to deepen my understanding in near future:
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+
 
 
