@@ -1,12 +1,12 @@
 # Hi there,
 
-My name is **Tomas** and my handle here is Nan-tathren (I could not think of anything else). I'm a aspiring back-end developer with a strong interest in Python.
+My name is **Tomas** and my handle here is Nan-tathren (I could not think of anything else). I'm a aspiring Python developer / Data analyst with a strong interest in Python.
 
 So far I only have a couple of projects here. The news scrapper is my creation without reliance on any tutorial. For the "Company_Blog" and the 'To-Do List' projects I got the inspiration from online university courses I follow. The last file showcases queiries in PostgreSQL I have practiced in real databases. 
 
 -----------
 
-**Currently I am learning Flask REST APIs and Docker. After that I will do the same in Django.**
+**Currently I am learning Data analyst stuff using Python, SQL, Power BI**
 
 -----------
 
@@ -14,7 +14,7 @@ You can check out my repositories below to see what I’ve been working on. Feel
 
 ## My Journey into IT
 
-After spending years in a completely different work field, I made the decision to pursue a career in software/web development. It hasn't been an easy road, though. Transitioning into IT demands a lot of time, effort, and perseverance — especially since I'm juggling my **non-IT full-time job**, a **side hustle**, and **family responsibilities**.
+After spending years in a completely different work field, I made the decision to pursue a career in IT. It hasn't been an easy road, though. Transitioning into IT demands a lot of time, effort, and perseverance — especially since I'm juggling my **non-IT full-time job**, a **side hustle**, and **family responsibilities**.
 
 The challenge of balancing all these commitments while learning new technologies and building projects has been tough, but worth it. Every step of the way, I've had to develop strong **resilience**, **time management** skills, and a deeper ability to **stay committed to my personal goals** despite the obstacles.
 
@@ -30,14 +30,12 @@ Despite the challenges, I remain motivated to keep learning and growing in this 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ### I'm actively learning:
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-0099ED?logo=power-bi&logoColor=white&style=for-the-badge)](https://powerbi.microsoft.com/)
+
 
 ### I have encountered and used:
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
 ### I'm seeking to deepen my understanding in near future:
