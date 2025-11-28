@@ -1,6 +1,6 @@
 # Hi there,
 
-My name is **Tomas** and my handle here is Nan-tathren (I could not think of anything else). I'm a aspiring Python developer / Data analyst with a strong interest in Python.
+My name is **Tomas** and my handle here is Nan-tathren (I could not think of anything else). I'm a aspiring Data analyst with a strong interest in Business/Data analysis and Python.
 
 So far I only have a couple of projects here. The news scrapper is my creation without reliance on any tutorial. For the "Company_Blog" and the 'To-Do List' projects I got the inspiration from online university courses I follow. The last file showcases queiries in PostgreSQL I have practiced in real databases. 
 
